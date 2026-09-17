@@ -1,5 +1,5 @@
 # SM10-paint
-<p>this is a web-based paint program. using html/css/js with exporting and importing. and layers. there might be updates in the future. but for now it is a small compact drawing web application</p>
+<p>this is a web-based paint program. using html/css/js with exporting and importing. and layers. there might be updates in the future. but for now it is a small compact web drawing application</p>
 <h1>funktions</h1>
 <ul>
   <li>you can save and import .img files.</li>
